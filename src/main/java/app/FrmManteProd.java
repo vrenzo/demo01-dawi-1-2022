@@ -211,7 +211,7 @@ public class FrmManteProd extends JFrame {
 			if (p != null) {
 				txtDescripcion.setText(p.getDescripcion());
 			} else
-				txtSalida.setText("Codigo No Existe Mongol!!");
+				txtSalida.setText("Codigo No Existe Mongol!!, Por eso ella no te ama");
 				
 				em.close();	
 	}
